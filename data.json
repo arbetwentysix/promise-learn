@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding JavaScript Closures",
+    "author": "John Doe",
+    "published_date": "2024-10-10",
+    "category": "JavaScript",
+    "tags": ["closures", "JavaScript", "functions"],
+    "summary": "A deep dive into the concept of closures in JavaScript, exploring how they work and common use cases.",
+    "content": "Closures are one of the most important concepts in JavaScript..."
+  },
+  {
+    "id": 2,
+    "title": "CSS Grid vs Flexbox: Which One to Choose?",
+    "author": "Jane Smith",
+    "published_date": "2024-09-20",
+    "category": "CSS",
+    "tags": ["grid", "flexbox", "layout"],
+    "summary": "A comparison between CSS Grid and Flexbox, helping developers decide when to use which.",
+    "content": "When building layouts, CSS Grid and Flexbox offer two powerful tools..."
+  },
+  {
+    "id": 3,
+    "title": "An Introduction to Node.js",
+    "author": "Alice Johnson",
+    "published_date": "2024-08-15",
+    "category": "Node.js",
+    "tags": ["node.js", "back-end", "JavaScript"],
+    "summary": "A beginner's guide to understanding what Node.js is and how to get started.",
+    "content": "Node.js is a runtime environment that allows you to execute JavaScript on the server..."
+  },
+  {
+    "id": 4,
+    "title": "Responsive Web Design: Best Practices",
+    "author": "Bob Brown",
+    "published_date": "2024-07-30",
+    "category": "Web Design",
+    "tags": ["responsive", "mobile", "design"],
+    "summary": "Learn how to create websites that work on all devices by following these best practices.",
+    "content": "Responsive web design is essential for modern web development..."
+  },
+  {
+    "id": 5,
+    "title": "Exploring Python for Data Science",
+    "author": "Charlie Davis",
+    "published_date": "2024-06-25",
+    "category": "Python",
+    "tags": ["python", "data science", "pandas"],
+    "summary": "This article explores how Python is used in data science, from libraries to real-world applications.",
+    "content": "Python has become one of the most popular languages for data science, thanks to its simplicity and powerful libraries..."
+  },
+  {
+    "id": 6,
+    "title": "Mastering React Hooks",
+    "author": "Diana Evans",
+    "published_date": "2024-05-15",
+    "category": "React",
+    "tags": ["react", "hooks", "state management"],
+    "summary": "A comprehensive guide to React Hooks, with examples on how to use them in your projects.",
+    "content": "React Hooks are a powerful feature that allows you to use state and other React features without writing a class..."
+  },
+  {
+    "id": 7,
+    "title": "How to Secure Your Web Applications",
+    "author": "Ethan Foster",
+    "published_date": "2024-04-10",
+    "category": "Security",
+    "tags": ["security", "web development", "OWASP"],
+    "summary": "An in-depth look at common web security vulnerabilities and how to protect your applications.",
+    "content": "Security is a crucial aspect of web development. This article covers some common vulnerabilities like XSS and CSRF..."
+  },
+  {
+    "id": 8,
+    "title": "The Power of TypeScript in Modern Web Development",
+    "author": "Fiona Green",
+    "published_date": "2024-03-18",
+    "category": "TypeScript",
+    "tags": ["typescript", "javascript", "static typing"],
+    "summary": "Learn why TypeScript is becoming the go-to language for large-scale JavaScript applications.",
+    "content": "TypeScript is a superset of JavaScript that introduces static types, making code more predictable and easier to debug..."
+  },
+  {
+    "id": 9,
+    "title": "A Beginner’s Guide to Git and GitHub",
+    "author": "George Harris",
+    "published_date": "2024-02-22",
+    "category": "Version Control",
+    "tags": ["git", "github", "version control"],
+    "summary": "A step-by-step guide to getting started with Git and GitHub for version control and collaboration.",
+    "content": "Git and GitHub are essential tools for any developer, allowing for version control and collaboration on projects..."
+  },
+  {
+    "id": 10,
+    "title": "Building RESTful APIs with Express.js",
+    "author": "Helen Ives",
+    "published_date": "2024-01-12",
+    "category": "Express.js",
+    "tags": ["express.js", "API", "back-end"],
+    "summary": "A guide on how to build RESTful APIs using Express.js, a minimalist web framework for Node.js.",
+    "content": "Express.js is a lightweight framework that simplifies building RESTful APIs in Node.js..."
+  }
+]

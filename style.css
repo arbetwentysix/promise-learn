@@ -1,0 +1,30 @@
+.notification-box {
+  overflow: hidden;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  padding: 20px;
+}
+
+.notification {
+  width: 500px;
+  animation: fade-in 3s linear forwards;
+}
+
+@keyframes fade-in {
+  0% {
+    transform: translateY(100px);
+  }
+
+  25% {
+    transform: translateY(0px);
+  }
+
+  75% {
+    transform: translateY(0px);
+  }
+
+  100% {
+    transform: translateY(100px);
+  }
+}
